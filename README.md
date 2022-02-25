@@ -24,6 +24,10 @@ When authors do load, for the CP version only, the value of the attributes are n
 Branch `ember-data-327` is the same application with Ember Data 3.27, both of the
 above issues do not exist on this branch
 
+## 4.2.0-beta.1 Ember Data
+
+Branch `ember-4` is upgraded to Ember 4.x and ember-data `4.2.0-beta.0`
+
 ---
 
 
